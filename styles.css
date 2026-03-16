@@ -17,5 +17,15 @@
 
 .conselho {
   font-size: 18px;
-  color: #666;
+  color: #241304;
+  background-color: #eaebe5;
+}
+
+.imagem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  height: 80%px;
+  object-fit: cover;
 }
